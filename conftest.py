@@ -10,5 +10,6 @@ def setup():
     driver.maximize_window()
     driver.get_cookie(any)
     driver.close()
+    driver.back()
     yield driver
     driver.quit()
