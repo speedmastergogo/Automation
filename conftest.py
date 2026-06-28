@@ -9,5 +9,6 @@ def setup():
     driver = webdriver.Chrome()
     driver.maximize_window()
     driver.get_cookie(any)
+    driver.close()
     yield driver
     driver.quit()
