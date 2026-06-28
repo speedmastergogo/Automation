@@ -8,5 +8,6 @@ def input_value():
 def setup():
     driver = webdriver.Chrome()
     driver.maximize_window()
+    driver.get_cookie(any)
     yield driver
     driver.quit()
