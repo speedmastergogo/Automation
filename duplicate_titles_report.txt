@@ -1,0 +1,642 @@
+Duplicate Title Report - 2026-08-09 14:27:49.073325
+URL: https://www.ubuy.co.in/search/?q=shoes
+------------------------------------------------------------
+[DUPLICATE] 'top Basketball Shoes'
+    First seen  -> position #2 on page, y=561px
+    Duplicate at-> position #6 on page, y=941px
+    Screenshot  -> screenshots/top_Basketball_Shoes_20260809_142749.png
+[DUPLICATE] 'Barefoot Shoes Men Cross Trainer Sneakers Wide Toe Box Minimalist Training Shoes Zero Drop Tennis Ground Feel for Gym Workout Lifting Trail ...'
+    First seen  -> position #12 on page, y=2067px
+    Duplicate at-> position #15 on page, y=2020px
+    Screenshot  -> screenshots/Barefoot_Shoes_Men_Cross_Trainer_Sneakers_Wide_Toe_Box_Minim_20260809_142749.png
+[DUPLICATE] 'BORAMAX Mens Casual Shoes Fashion Sneakers Non Slip PU Leather Classic Walking Shoes Suit Shoes Autumn Mid Top Men Shoes'
+    First seen  -> position #16 on page, y=2400px
+    Duplicate at-> position #18 on page, y=2400px
+    Screenshot  -> screenshots/BORAMAX_Mens_Casual_Shoes_Fashion_Sneakers_Non_Slip_PU_Leath_20260809_142749.png
+[DUPLICATE] 'Steel Toe Shoes for Men Women Lightweight Non-Slip Safety Shoes Construction Industrial Work Tennis Shoe Comfortable Slip On Walking Sneakers'
+    First seen  -> position #22 on page, y=2733px
+    Duplicate at-> position #32 on page, y=3800px
+    Screenshot  -> screenshots/Steel_Toe_Shoes_for_Men_Women_Lightweight_Non-Slip_Safety_Sh_20260809_142749.png
+[DUPLICATE] 'Mens Shoes Sports Shoes Casual Shoes Sneakers Running Shoes Basketball Shoes Outdoor Shoes Fashionable Trends'
+    First seen  -> position #35 on page, y=3847px
+    Duplicate at-> position #36 on page, y=4201px
+    Screenshot  -> screenshots/Mens_Shoes_Sports_Shoes_Casual_Shoes_Sneakers_Running_Shoes__20260809_142749.png
+[DUPLICATE] 'Women Shoes Fashionable Flat Sole Single Shoes Fly Woven Shoes Thickened Soft Sole Casual Flat Shoes Dress Flat Women'
+    First seen  -> position #0 on page, y=561px
+    Duplicate at-> position #0 on page, y=561px
+    Screenshot  -> screenshots/Women_Shoes_Fashionable_Flat_Sole_Single_Shoes_Fly_Woven_Sho_20260809_142751.png
+[DUPLICATE] 'Mens Climbing Shoes, Fashionable Board Shoes, Sports Shoes, Simple Casual Shoes, High Top Boots, Waterproof Shoes Shoes'
+    First seen  -> position #1 on page, y=561px
+    Duplicate at-> position #1 on page, y=561px
+    Screenshot  -> screenshots/Mens_Climbing_Shoes__Fashionable_Board_Shoes__Sports_Shoes___20260809_142751.png
+[DUPLICATE] 'Zapatos Descalzos Sanos Y Antideslizantes, Hikes Barefoot Shoes Womens Orthopedic'
+    First seen  -> position #3 on page, y=561px
+    Duplicate at-> position #3 on page, y=561px
+    Screenshot  -> screenshots/Zapatos_Descalzos_Sanos_Y_Antideslizantes__Hikes_Barefoot_Sh_20260809_142752.png
+[DUPLICATE] 'Mens Shoes Sneakers Basketball Shoes Outdoor Shoes Breathable Shoes Running Shoes Sports Shoes Youth Shoes'
+    First seen  -> position #4 on page, y=941px
+    Duplicate at-> position #4 on page, y=941px
+    Screenshot  -> screenshots/Mens_Shoes_Sneakers_Basketball_Shoes_Outdoor_Shoes_Breathabl_20260809_142752.png
+[DUPLICATE] 'Shoes Water Outdoor Swim Beach Couples Summer Yoga Exercise Surf Womens Men Water Shoes Size White, 6'
+    First seen  -> position #5 on page, y=894px
+    Duplicate at-> position #5 on page, y=894px
+    Screenshot  -> screenshots/Shoes_Water_Outdoor_Swim_Beach_Couples_Summer_Yoga_Exercise__20260809_142752.png
+[DUPLICATE] 'Barefoot Shoes Vogany Breathable Orthopaedic Ergonomic Orthopaedic Barefoot Shoes Sneaker Men 9'
+    First seen  -> position #7 on page, y=941px
+    Duplicate at-> position #7 on page, y=941px
+    Screenshot  -> screenshots/Barefoot_Shoes_Vogany_Breathable_Orthopaedic_Ergonomic_Ortho_20260809_142752.png
+[DUPLICATE] 'Men Sports Shoes Fashionable Couple Style and Solid Color Thick Bottomed Flat Mesh Breathable Sneaker Crease Shield Men'
+    First seen  -> position #8 on page, y=1713px
+    Duplicate at-> position #8 on page, y=1713px
+    Screenshot  -> screenshots/Men_Sports_Shoes_Fashionable_Couple_Style_and_Solid_Color_Th_20260809_142752.png
+[DUPLICATE] 'Wolf Shoes for Men Fashion Sneakers Lace-up Running Walking Tennis Shoes'
+    First seen  -> position #9 on page, y=1713px
+    Duplicate at-> position #9 on page, y=1713px
+    Screenshot  -> screenshots/Wolf_Shoes_for_Men_Fashion_Sneakers_Lace-up_Running_Walking__20260809_142752.png
+[DUPLICATE] 'Barefoot Shoes Womens Mens Walking Hiking Shoes Wide Toe Box Breathable Water Shoes for Outdoor Beach Pool Black Size 9'
+    First seen  -> position #10 on page, y=1666px
+    Duplicate at-> position #10 on page, y=1666px
+    Screenshot  -> screenshots/Barefoot_Shoes_Womens_Mens_Walking_Hiking_Shoes_Wide_Toe_Box_20260809_142752.png
+[DUPLICATE] 'Generic Shoes Water Outdoor Swim Beach Couples Summer Yoga Exercise Surf Womens Men Water Shoes Size White, 7.5'
+    First seen  -> position #11 on page, y=1666px
+    Duplicate at-> position #11 on page, y=1666px
+    Screenshot  -> screenshots/Generic_Shoes_Water_Outdoor_Swim_Beach_Couples_Summer_Yoga_E_20260809_142752.png
+[DUPLICATE] 'Generic Shoes Water Outdoor Swim Beach Couples Summer Yoga Exercise Surf Womens Men Water Shoes Size Red, 11'
+    First seen  -> position #13 on page, y=2020px
+    Duplicate at-> position #13 on page, y=2020px
+    Screenshot  -> screenshots/Generic_Shoes_Water_Outdoor_Swim_Beach_Couples_Summer_Yoga_E_20260809_142752.png
+[DUPLICATE] 'Barefoot Shoes Women Men Footwear Wide Toe Box Sneakers Running HIking Shoes Breathable Mesh Athletic Shoes Beige Size 10.5'
+    First seen  -> position #14 on page, y=2020px
+    Duplicate at-> position #14 on page, y=2020px
+    Screenshot  -> screenshots/Barefoot_Shoes_Women_Men_Footwear_Wide_Toe_Box_Sneakers_Runn_20260809_142752.png
+[DUPLICATE] 'Mens Breathable Lightweight Sneakers for Walking Running Gym Casual Slip On Comfortable Athletic Shoes'
+    First seen  -> position #17 on page, y=2400px
+    Duplicate at-> position #17 on page, y=2400px
+    Screenshot  -> screenshots/Mens_Breathable_Lightweight_Sneakers_for_Walking_Running_Gym_20260809_142752.png
+[DUPLICATE] 'Shoes for Men - Mens Footwear'
+    First seen  -> position #21 on page, y=2780px
+    Duplicate at-> position #21 on page, y=2780px
+    Screenshot  -> screenshots/Shoes_for_Men_-_Mens_Footwear_20260809_142753.png
+[DUPLICATE] 'Mens Fashionable Thick-Soled Sports Shoes - for Outdoor use, Running, Daily wear, Casual wear, Versatile, Anti-Slip and Durable.'
+    First seen  -> position #23 on page, y=2780px
+    Duplicate at-> position #23 on page, y=2780px
+    Screenshot  -> screenshots/Mens_Fashionable_Thick-Soled_Sports_Shoes_-_for_Outdoor_use__20260809_142753.png
+[DUPLICATE] 'Wolf Shoes for Women Men Running Shoes Black Sneakers Tennis Shoes Gifts for Women Men'
+    First seen  -> position #24 on page, y=3160px
+    Duplicate at-> position #24 on page, y=3160px
+    Screenshot  -> screenshots/Wolf_Shoes_for_Women_Men_Running_Shoes_Black_Sneakers_Tennis_20260809_142753.png
+[DUPLICATE] 'Barefoot Shoes Women Men Footwear Wide Toe Box Sneakers Running HIking Shoes Breathable Mesh Athletic Shoes Black Size 10'
+    First seen  -> position #25 on page, y=3113px
+    Duplicate at-> position #25 on page, y=3113px
+    Screenshot  -> screenshots/Barefoot_Shoes_Women_Men_Footwear_Wide_Toe_Box_Sneakers_Runn_20260809_142753.png
+[DUPLICATE] 'Bestones Best Mens Wearbreeze Shoes, Urbans Mens Lightweight Casual Walking Shoes'
+    First seen  -> position #26 on page, y=3160px
+    Duplicate at-> position #26 on page, y=3160px
+    Screenshot  -> screenshots/Bestones_Best_Mens_Wearbreeze_Shoes__Urbans_Mens_Lightweight_20260809_142753.png
+[DUPLICATE] 'Running Shoes - Running Shoes for Men, Breathable & Non Slip Mens Sneakers, Knit Mesh Design Walking Shoes for Men, Lightweight Mens Trail ...'
+    First seen  -> position #27 on page, y=3160px
+    Duplicate at-> position #27 on page, y=3160px
+    Screenshot  -> screenshots/Running_Shoes_-_Running_Shoes_for_Men__Breathable___Non_Slip_20260809_142753.png
+[DUPLICATE] 'Men Sports Shoes Fashionable New Pattern Pure Color Mesh Breathable Comfortable Lightweight Casual Shoes Mens Sneaker Socks No Show'
+    First seen  -> position #28 on page, y=3493px
+    Duplicate at-> position #28 on page, y=3493px
+    Screenshot  -> screenshots/Men_Sports_Shoes_Fashionable_New_Pattern_Pure_Color_Mesh_Bre_20260809_142753.png
+[DUPLICATE] 'Women Men Runing Shoes Mesh Outdoor Lace-Up Couples Breathable Sports Womens Womens Shoes Stylish'
+    First seen  -> position #29 on page, y=3493px
+    Duplicate at-> position #29 on page, y=3493px
+    Screenshot  -> screenshots/Women_Men_Runing_Shoes_Mesh_Outdoor_Lace-Up_Couples_Breathab_20260809_142753.png
+[DUPLICATE] 'Barefoot Shoes Women Men Footwear Wide Toe Box Sneakers Running HIking Shoes Breathable Mesh Athletic Shoes White Size 10'
+    First seen  -> position #30 on page, y=3493px
+    Duplicate at-> position #30 on page, y=3493px
+    Screenshot  -> screenshots/Barefoot_Shoes_Women_Men_Footwear_Wide_Toe_Box_Sneakers_Runn_20260809_142753.png
+[DUPLICATE] 'Generic Shoes Water Outdoor Swim Beach Couples Summer Yoga Exercise Surf Womens Men Water Shoes Size White, 13'
+    First seen  -> position #31 on page, y=3493px
+    Duplicate at-> position #31 on page, y=3493px
+    Screenshot  -> screenshots/Generic_Shoes_Water_Outdoor_Swim_Beach_Couples_Summer_Yoga_E_20260809_142753.png
+[DUPLICATE] 'Barefoot Shoes Women Men Footwear Wide Toe Box Sneakers Running HIking Shoes Breathable Mesh Athletic Shoes Gray Size 10'
+    First seen  -> position #33 on page, y=3800px
+    Duplicate at-> position #33 on page, y=3800px
+    Screenshot  -> screenshots/Barefoot_Shoes_Women_Men_Footwear_Wide_Toe_Box_Sneakers_Runn_20260809_142754.png
+[DUPLICATE] 'Barefoot Shoes Women Men Footwear Wide Toe Box Sneakers Running HIking Shoes Breathable Mesh Athletic Shoes Beige Size 10'
+    First seen  -> position #34 on page, y=3800px
+    Duplicate at-> position #34 on page, y=3800px
+    Screenshot  -> screenshots/Barefoot_Shoes_Women_Men_Footwear_Wide_Toe_Box_Sneakers_Runn_20260809_142754.png
+[DUPLICATE] 'Barefoot Shoes Women Men Footwear Wide Toe Box Sneakers Running HIking Shoes Breathable Mesh Athletic Shoes Beige Size 7.5'
+    First seen  -> position #37 on page, y=4154px
+    Duplicate at-> position #37 on page, y=4154px
+    Screenshot  -> screenshots/Barefoot_Shoes_Women_Men_Footwear_Wide_Toe_Box_Sneakers_Runn_20260809_142754.png
+[DUPLICATE] 'Grounding Shoes with Copper, Skin Pro with Coppers - Groundings Allround Barefoot Shoes, Barefoots Sneaker Women Men'
+    First seen  -> position #38 on page, y=4201px
+    Duplicate at-> position #38 on page, y=4201px
+    Screenshot  -> screenshots/Grounding_Shoes_with_Copper__Skin_Pro_with_Coppers_-_Groundi_20260809_142754.png
+[DUPLICATE] 'Shoes Flat Sole Large Lace Up Shoes Loose Cake Sole Sports Style Solid Color Flying Woven Shoes for Men Leather Casual RD2, 7'
+    First seen  -> position #39 on page, y=4154px
+    Duplicate at-> position #39 on page, y=4154px
+    Screenshot  -> screenshots/Shoes_Flat_Sole_Large_Lace_Up_Shoes_Loose_Cake_Sole_Sports_S_20260809_142754.png
+[DUPLICATE] 'Barefoot Shoes Womens Mens Walking Hiking Shoes Wide Toe Box Breathable Water Shoes for Outdoor Beach Pool Green Size 9'
+    First seen  -> position #40 on page, y=4508px
+    Duplicate at-> position #40 on page, y=4508px
+    Screenshot  -> screenshots/Barefoot_Shoes_Womens_Mens_Walking_Hiking_Shoes_Wide_Toe_Box_20260809_142754.png
+[DUPLICATE] 'Mens Shoes Competition Shoes Basketball Shoes Outdoor Shoes Summer Sports Shoes Casual Shoes Running Shoes Walking Shoes'
+    First seen  -> position #41 on page, y=4555px
+    Duplicate at-> position #41 on page, y=4555px
+    Screenshot  -> screenshots/Mens_Shoes_Competition_Shoes_Basketball_Shoes_Outdoor_Shoes__20260809_142754.png
+[DUPLICATE] 'Wolf Shoes for Men Women High Top Sneakers High Top Shoes Gifts for Boyfriend Girlfriend'
+    First seen  -> position #42 on page, y=4555px
+    Duplicate at-> position #42 on page, y=4555px
+    Screenshot  -> screenshots/Wolf_Shoes_for_Men_Women_High_Top_Sneakers_High_Top_Shoes_Gi_20260809_142754.png
+[DUPLICATE] 'Mens Shoes Sports Shoes Casual Shoes, Trendy Shoes Running Shoes Basketball Shoes Outdoor Shoes Fashionable Trends Sneakers'
+    First seen  -> position #43 on page, y=4555px
+    Duplicate at-> position #43 on page, y=4555px
+    Screenshot  -> screenshots/Mens_Shoes_Sports_Shoes_Casual_Shoes__Trendy_Shoes_Running_S_20260809_142754.png
+[DUPLICATE] 'Mens Shoes Competition Shoes Basketball Shoes Outdoor Shoes Sports Shoes Casual Shoes Running Shoes Walking Shoes'
+    First seen  -> position #44 on page, y=4862px
+    Duplicate at-> position #44 on page, y=4862px
+    Screenshot  -> screenshots/Mens_Shoes_Competition_Shoes_Basketball_Shoes_Outdoor_Shoes__20260809_142754.png
+[DUPLICATE] 'Mens Shoes, Sports Shoes, Running Shoes, Outdoor Shoes, Casual Shoes, Sneakers Training Shoes Trend'
+    First seen  -> position #45 on page, y=4909px
+    Duplicate at-> position #45 on page, y=4909px
+    Screenshot  -> screenshots/Mens_Shoes__Sports_Shoes__Running_Shoes__Outdoor_Shoes__Casu_20260809_142755.png
+[DUPLICATE] 'Women's VL Court 3.0 Shoe'
+    First seen  -> position #56 on page, y=6076px
+    Duplicate at-> position #58 on page, y=6549px
+    Screenshot  -> screenshots/Women_s_VL_Court_3_0_Shoe_20260809_142807.png
+[DUPLICATE] 'Unisex-Adult Samba Indoor Shoe'
+    First seen  -> position #48 on page, y=5371px
+    Duplicate at-> position #60 on page, y=6549px
+    Screenshot  -> screenshots/Unisex-Adult_Samba_Indoor_Shoe_20260809_142807.png
+[DUPLICATE] 'Men's Daily 4.0 Shoe'
+    First seen  -> position #52 on page, y=5724px
+    Duplicate at-> position #65 on page, y=6902px
+    Screenshot  -> screenshots/Men_s_Daily_4_0_Shoe_20260809_142807.png
+[DUPLICATE] 'Men's Fresh Foam Arishi V4 Running Shoe'
+    First seen  -> position #81 on page, y=8312px
+    Duplicate at-> position #83 on page, y=8664px
+    Screenshot  -> screenshots/Men_s_Fresh_Foam_Arishi_V4_Running_Shoe_20260809_142807.png
+[DUPLICATE] 'Unisex Adult Knu Skool Shoe - '90s Retro Puffy Low-Top Fashion Sneakers for Men & Women'
+    First seen  -> position #46 on page, y=5371px
+    Duplicate at-> position #46 on page, y=5371px
+    Screenshot  -> screenshots/Unisex_Adult_Knu_Skool_Shoe_-__90s_Retro_Puffy_Low-Top_Fashi_20260809_142810.png
+[DUPLICATE] 'Men's Lite Racer Adapt 7.0 Running Shoes'
+    First seen  -> position #47 on page, y=5371px
+    Duplicate at-> position #47 on page, y=5371px
+    Screenshot  -> screenshots/Men_s_Lite_Racer_Adapt_7_0_Running_Shoes_20260809_142810.png
+[DUPLICATE] 'Women's 574 Core Sneaker'
+    First seen  -> position #49 on page, y=5371px
+    Duplicate at-> position #49 on page, y=5371px
+    Screenshot  -> screenshots/Women_s_574_Core_Sneaker_20260809_142810.png
+[DUPLICATE] 'Women's 608 V5 Casual Comfort Cross Trainer'
+    First seen  -> position #50 on page, y=5724px
+    Duplicate at-> position #50 on page, y=5724px
+    Screenshot  -> screenshots/Women_s_608_V5_Casual_Comfort_Cross_Trainer_20260809_142810.png
+[DUPLICATE] 'Nike Men's Court Vision Low Next Nature Shoes'
+    First seen  -> position #51 on page, y=5724px
+    Duplicate at-> position #51 on page, y=5724px
+    Screenshot  -> screenshots/Nike_Men_s_Court_Vision_Low_Next_Nature_Shoes_20260809_142810.png
+[DUPLICATE] 'Genuine Suede Clogs for Women Men Comfort Cork Footbed Potato Shoes'
+    First seen  -> position #53 on page, y=5724px
+    Duplicate at-> position #53 on page, y=5724px
+    Screenshot  -> screenshots/Genuine_Suede_Clogs_for_Women_Men_Comfort_Cork_Footbed_Potat_20260809_142810.png
+[DUPLICATE] 'Men's KnitFlex Breeze Casual Dress Sneakers'
+    First seen  -> position #54 on page, y=6076px
+    Duplicate at-> position #54 on page, y=6076px
+    Screenshot  -> screenshots/Men_s_KnitFlex_Breeze_Casual_Dress_Sneakers_20260809_142810.png
+[DUPLICATE] 'Mens Swift Run 1 Sneakers Shoes Casual - Beige'
+    First seen  -> position #55 on page, y=6076px
+    Duplicate at-> position #55 on page, y=6076px
+    Screenshot  -> screenshots/Mens_Swift_Run_1_Sneakers_Shoes_Casual_-_Beige_20260809_142810.png
+[DUPLICATE] 'Men’s Adrenaline GTS 25 Supportive Running & Walking Shoe'
+    First seen  -> position #57 on page, y=6076px
+    Duplicate at-> position #57 on page, y=6076px
+    Screenshot  -> screenshots/Men_s_Adrenaline_GTS_25_Supportive_Running___Walking_Shoe_20260809_142810.png
+[DUPLICATE] 'Kids' VL Court 3.0 Shoe'
+    First seen  -> position #59 on page, y=6549px
+    Duplicate at-> position #59 on page, y=6549px
+    Screenshot  -> screenshots/Kids__VL_Court_3_0_Shoe_20260809_142811.png
+[DUPLICATE] 'Mens Running Shoes Slip On Tennis Walking Sneakers Gym Athletic'
+    First seen  -> position #61 on page, y=6549px
+    Duplicate at-> position #61 on page, y=6549px
+    Screenshot  -> screenshots/Mens_Running_Shoes_Slip_On_Tennis_Walking_Sneakers_Gym_Athle_20260809_142811.png
+[DUPLICATE] 'Men's Brooklyn LS Sneakers'
+    First seen  -> position #62 on page, y=6902px
+    Duplicate at-> position #62 on page, y=6902px
+    Screenshot  -> screenshots/Men_s_Brooklyn_LS_Sneakers_20260809_142811.png
+[DUPLICATE] 'Women's High Top Platform Sneakers Canvas Shoes'
+    First seen  -> position #63 on page, y=6902px
+    Duplicate at-> position #63 on page, y=6902px
+    Screenshot  -> screenshots/Women_s_High_Top_Platform_Sneakers_Canvas_Shoes_20260809_142811.png
+[DUPLICATE] 'Fresh Foam Arishi v4 Women's Running'
+    First seen  -> position #64 on page, y=6902px
+    Duplicate at-> position #64 on page, y=6902px
+    Screenshot  -> screenshots/Fresh_Foam_Arishi_v4_Women_s_Running_20260809_142811.png
+[DUPLICATE] 'Men's Stamina Nuovo Sneaker'
+    First seen  -> position #66 on page, y=7254px
+    Duplicate at-> position #66 on page, y=7254px
+    Screenshot  -> screenshots/Men_s_Stamina_Nuovo_Sneaker_20260809_142811.png
+[DUPLICATE] 'Men's After Burn M. Fit Sneaker'
+    First seen  -> position #67 on page, y=7254px
+    Duplicate at-> position #67 on page, y=7254px
+    Screenshot  -> screenshots/Men_s_After_Burn_M__Fit_Sneaker_20260809_142811.png
+[DUPLICATE] 'Womens Clogs Slip-on Potato Shoes Leather Mules Suede Cork Footbed'
+    First seen  -> position #68 on page, y=7254px
+    Duplicate at-> position #68 on page, y=7254px
+    Screenshot  -> screenshots/Womens_Clogs_Slip-on_Potato_Shoes_Leather_Mules_Suede_Cork_F_20260809_142811.png
+[DUPLICATE] 'Nike Men's Air Max Fire Shoes'
+    First seen  -> position #69 on page, y=7254px
+    Duplicate at-> position #69 on page, y=7254px
+    Screenshot  -> screenshots/Nike_Men_s_Air_Max_Fire_Shoes_20260809_142811.png
+[DUPLICATE] 'Nike Women's Downshifter 14 Road Running Shoes'
+    First seen  -> position #70 on page, y=7607px
+    Duplicate at-> position #70 on page, y=7607px
+    Screenshot  -> screenshots/Nike_Women_s_Downshifter_14_Road_Running_Shoes_20260809_142811.png
+[DUPLICATE] 'Nike Men's Journey Run Road Running Shoes'
+    First seen  -> position #71 on page, y=7607px
+    Duplicate at-> position #71 on page, y=7607px
+    Screenshot  -> screenshots/Nike_Men_s_Journey_Run_Road_Running_Shoes_20260809_142811.png
+[DUPLICATE] 'DC Womens Dc Women's Court Graffik Casual Skate Shoe'
+    First seen  -> position #72 on page, y=7607px
+    Duplicate at-> position #72 on page, y=7607px
+    Screenshot  -> screenshots/DC_Womens_Dc_Women_s_Court_Graffik_Casual_Skate_Shoe_20260809_142812.png
+[DUPLICATE] 'Men's Moab 3 Hiking Shoe'
+    First seen  -> position #73 on page, y=7607px
+    Duplicate at-> position #73 on page, y=7607px
+    Screenshot  -> screenshots/Men_s_Moab_3_Hiking_Shoe_20260809_142812.png
+[DUPLICATE] 'Men's Charged Surge 4 Sneaker'
+    First seen  -> position #74 on page, y=7959px
+    Duplicate at-> position #74 on page, y=7959px
+    Screenshot  -> screenshots/Men_s_Charged_Surge_4_Sneaker_20260809_142812.png
+[DUPLICATE] 'Men's Nampa Lace Up'
+    First seen  -> position #75 on page, y=7959px
+    Duplicate at-> position #75 on page, y=7959px
+    Screenshot  -> screenshots/Men_s_Nampa_Lace_Up_20260809_142812.png
+[DUPLICATE] 'Men's Eureka Walking Shoe'
+    First seen  -> position #76 on page, y=7959px
+    Duplicate at-> position #76 on page, y=7959px
+    Screenshot  -> screenshots/Men_s_Eureka_Walking_Shoe_20260809_142812.png
+[DUPLICATE] 'Women's Bravada 2.0 Platform Sneaker'
+    First seen  -> position #77 on page, y=7959px
+    Duplicate at-> position #77 on page, y=7959px
+    Screenshot  -> screenshots/Women_s_Bravada_2_0_Platform_Sneaker_20260809_142812.png
+[DUPLICATE] 'Barefoot Shoes Women Men Footwear,Wide Toe Box River Pool Beach Water Shoes'
+    First seen  -> position #78 on page, y=8312px
+    Duplicate at-> position #78 on page, y=8312px
+    Screenshot  -> screenshots/Barefoot_Shoes_Women_Men_Footwear_Wide_Toe_Box_River_Pool_Be_20260809_142812.png
+[DUPLICATE] 'Nike Men's Initiator Shoes'
+    First seen  -> position #79 on page, y=8312px
+    Duplicate at-> position #79 on page, y=8312px
+    Screenshot  -> screenshots/Nike_Men_s_Initiator_Shoes_20260809_142812.png
+[DUPLICATE] 'Men's Charged Assert 10 Shoes'
+    First seen  -> position #80 on page, y=8312px
+    Duplicate at-> position #80 on page, y=8312px
+    Screenshot  -> screenshots/Men_s_Charged_Assert_10_Shoes_20260809_142812.png
+[DUPLICATE] 'Women's Barreda Mary Jane Shoes'
+    First seen  -> position #82 on page, y=8664px
+    Duplicate at-> position #82 on page, y=8664px
+    Screenshot  -> screenshots/Women_s_Barreda_Mary_Jane_Shoes_20260809_142812.png
+[DUPLICATE] 'Men's KnitFlex Craft Mesh Oxfords Sneakers'
+    First seen  -> position #84 on page, y=8664px
+    Duplicate at-> position #84 on page, y=8664px
+    Screenshot  -> screenshots/Men_s_KnitFlex_Craft_Mesh_Oxfords_Sneakers_20260809_142813.png
+[DUPLICATE] 'Men's Clipper Sneaker'
+    First seen  -> position #85 on page, y=8664px
+    Duplicate at-> position #85 on page, y=8664px
+    Screenshot  -> screenshots/Men_s_Clipper_Sneaker_20260809_142813.png
+[DUPLICATE] 'Men's Nampa-Groton'
+    First seen  -> position #86 on page, y=9017px
+    Duplicate at-> position #86 on page, y=9017px
+    Screenshot  -> screenshots/Men_s_Nampa-Groton_20260809_142813.png
+[DUPLICATE] 'Men's Business Shoes Derby Lace-Up Shoes Suit Shoes Leather with Oxford Lining'
+    First seen  -> position #87 on page, y=9017px
+    Duplicate at-> position #87 on page, y=9017px
+    Screenshot  -> screenshots/Men_s_Business_Shoes_Derby_Lace-Up_Shoes_Suit_Shoes_Leather__20260809_142813.png
+[DUPLICATE] 'Men's Non Slip Running Shoes Ultra Light Breathable Casual Walking Shoes Fashion Sneakers Mesh Workout Sports Shoes'
+    First seen  -> position #88 on page, y=9017px
+    Duplicate at-> position #88 on page, y=9017px
+    Screenshot  -> screenshots/Men_s_Non_Slip_Running_Shoes_Ultra_Light_Breathable_Casual_W_20260809_142813.png
+[DUPLICATE] 'Womens White Tennis Shoes for Women,Low Tops Lace up Canvas Sneakers'
+    First seen  -> position #89 on page, y=9017px
+    Duplicate at-> position #89 on page, y=9017px
+    Screenshot  -> screenshots/Womens_White_Tennis_Shoes_for_Women_Low_Tops_Lace_up_Canvas__20260809_142813.png
+[DUPLICATE] 'Women’s Adrenaline GTS 25 Supportive Running & Walking Shoe'
+    First seen  -> position #90 on page, y=9369px
+    Duplicate at-> position #90 on page, y=9369px
+    Screenshot  -> screenshots/Women_s_Adrenaline_GTS_25_Supportive_Running___Walking_Shoe_20260809_142813.png
+[DUPLICATE] 'Genuine Leather Slip On Sneakers for Women with Leather Memory Foam Insole'
+    First seen  -> position #91 on page, y=9369px
+    Duplicate at-> position #91 on page, y=9369px
+    Screenshot  -> screenshots/Genuine_Leather_Slip_On_Sneakers_for_Women_with_Leather_Memo_20260809_142813.png
+[DUPLICATE] 'Men's Gel-Excite 11 Running Shoes'
+    First seen  -> position #92 on page, y=9369px
+    Duplicate at-> position #92 on page, y=9369px
+    Screenshot  -> screenshots/Men_s_Gel-Excite_11_Running_Shoes_20260809_142813.png
+[DUPLICATE] 'adidas kids Duramo SL Shoes Kids'
+    First seen  -> position #133 on page, y=12511px
+    Duplicate at-> position #145 on page, y=13432px
+    Screenshot  -> screenshots/adidas_kids_Duramo_SL_Shoes_Kids_20260809_142828.png
+[DUPLICATE] 'Nike Serena Williams x Off-White x Air Max 97 OG Queen Size 4.5 Mens / 6 Womens'
+    First seen  -> position #93 on page, y=9369px
+    Duplicate at-> position #93 on page, y=9369px
+    Screenshot  -> screenshots/Nike_Serena_Williams_x_Off-White_x_Air_Max_97_OG_Queen_Size__20260809_142831.png
+[DUPLICATE] 'adidas women Ultraboost 5X Shoes'
+    First seen  -> position #94 on page, y=9722px
+    Duplicate at-> position #94 on page, y=9722px
+    Screenshot  -> screenshots/adidas_women_Ultraboost_5X_Shoes_20260809_142831.png
+[DUPLICATE] 'adidas men SL 72 RS SHOES'
+    First seen  -> position #95 on page, y=9722px
+    Duplicate at-> position #95 on page, y=9722px
+    Screenshot  -> screenshots/adidas_men_SL_72_RS_SHOES_20260809_142831.png
+[DUPLICATE] 'adidas women Adizero EVO SL Shoes'
+    First seen  -> position #96 on page, y=9722px
+    Duplicate at-> position #96 on page, y=9722px
+    Screenshot  -> screenshots/adidas_women_Adizero_EVO_SL_Shoes_20260809_142831.png
+[DUPLICATE] 'adidas women Galaxy 7 Running Shoes'
+    First seen  -> position #97 on page, y=9722px
+    Duplicate at-> position #97 on page, y=9722px
+    Screenshot  -> screenshots/adidas_women_Galaxy_7_Running_Shoes_20260809_142832.png
+[DUPLICATE] 'adidas men Galaxy 7 Running Shoes'
+    First seen  -> position #98 on page, y=10029px
+    Duplicate at-> position #98 on page, y=10029px
+    Screenshot  -> screenshots/adidas_men_Galaxy_7_Running_Shoes_20260809_142832.png
+[DUPLICATE] 'adidas women Grand Court 2.0 Shoes'
+    First seen  -> position #99 on page, y=10029px
+    Duplicate at-> position #99 on page, y=10029px
+    Screenshot  -> screenshots/adidas_women_Grand_Court_2_0_Shoes_20260809_142832.png
+[DUPLICATE] 'adidas men Ultraboost 5X Shoes'
+    First seen  -> position #100 on page, y=10029px
+    Duplicate at-> position #100 on page, y=10029px
+    Screenshot  -> screenshots/adidas_men_Ultraboost_5X_Shoes_20260809_142832.png
+[DUPLICATE] 'adidas men X_PLR Path Shoes'
+    First seen  -> position #101 on page, y=10029px
+    Duplicate at-> position #101 on page, y=10029px
+    Screenshot  -> screenshots/adidas_men_X_PLR_Path_Shoes_20260809_142832.png
+[DUPLICATE] 'adidas men GRAND COURT 2.0 SHOES'
+    First seen  -> position #102 on page, y=10336px
+    Duplicate at-> position #102 on page, y=10336px
+    Screenshot  -> screenshots/adidas_men_GRAND_COURT_2_0_SHOES_20260809_142832.png
+[DUPLICATE] 'adidas kids Lite Racer Adapt 7.0 Shoes Kids'
+    First seen  -> position #103 on page, y=10336px
+    Duplicate at-> position #103 on page, y=10336px
+    Screenshot  -> screenshots/adidas_kids_Lite_Racer_Adapt_7_0_Shoes_Kids_20260809_142832.png
+[DUPLICATE] 'adidas women Advantage Shoes'
+    First seen  -> position #104 on page, y=10336px
+    Duplicate at-> position #104 on page, y=10336px
+    Screenshot  -> screenshots/adidas_women_Advantage_Shoes_20260809_142832.png
+[DUPLICATE] 'adidas men RUN 70s 2.0 Shoes'
+    First seen  -> position #105 on page, y=10336px
+    Duplicate at-> position #105 on page, y=10336px
+    Screenshot  -> screenshots/adidas_men_RUN_70s_2_0_Shoes_20260809_142832.png
+[DUPLICATE] 'adidas men CLIMACOOL LACED SHOES'
+    First seen  -> position #106 on page, y=10643px
+    Duplicate at-> position #106 on page, y=10643px
+    Screenshot  -> screenshots/adidas_men_CLIMACOOL_LACED_SHOES_20260809_142832.png
+[DUPLICATE] 'adidas men Duramo Speed 2 Running Shoes'
+    First seen  -> position #107 on page, y=10643px
+    Duplicate at-> position #107 on page, y=10643px
+    Screenshot  -> screenshots/adidas_men_Duramo_Speed_2_Running_Shoes_20260809_142832.png
+[DUPLICATE] 'NEW Jordan 4 Retro Rare Air - (TD) Toddler Baby Shoe - Size 4C - Complete in Box'
+    First seen  -> position #108 on page, y=10643px
+    Duplicate at-> position #108 on page, y=10643px
+    Screenshot  -> screenshots/NEW_Jordan_4_Retro_Rare_Air_-__TD__Toddler_Baby_Shoe_-_Size__20260809_142833.png
+[DUPLICATE] 'adidas men VL Court 3.0 Shoes'
+    First seen  -> position #109 on page, y=10643px
+    Duplicate at-> position #109 on page, y=10643px
+    Screenshot  -> screenshots/adidas_men_VL_Court_3_0_Shoes_20260809_142833.png
+[DUPLICATE] 'adidas men Daily 4.0 Shoes'
+    First seen  -> position #110 on page, y=10950px
+    Duplicate at-> position #110 on page, y=10950px
+    Screenshot  -> screenshots/adidas_men_Daily_4_0_Shoes_20260809_142833.png
+[DUPLICATE] 'W Nike Dunk Low '08 Blank and White (Panda) 2011 Size 10.5- Brand New with Box'
+    First seen  -> position #111 on page, y=10950px
+    Duplicate at-> position #111 on page, y=10950px
+    Screenshot  -> screenshots/W_Nike_Dunk_Low__08_Blank_and_White__Panda__2011_Size_10_5-__20260809_142833.png
+[DUPLICATE] 'adidas women VL Court 3.0 Shoes'
+    First seen  -> position #112 on page, y=10950px
+    Duplicate at-> position #112 on page, y=10950px
+    Screenshot  -> screenshots/adidas_women_VL_Court_3_0_Shoes_20260809_142833.png
+[DUPLICATE] 'adidas men Duramo SL Shoes'
+    First seen  -> position #113 on page, y=10950px
+    Duplicate at-> position #113 on page, y=10950px
+    Screenshot  -> screenshots/adidas_men_Duramo_SL_Shoes_20260809_142833.png
+[DUPLICATE] 'adidas women GAZELLE BOLD SHOES'
+    First seen  -> position #114 on page, y=11283px
+    Duplicate at-> position #114 on page, y=11283px
+    Screenshot  -> screenshots/adidas_women_GAZELLE_BOLD_SHOES_20260809_142833.png
+[DUPLICATE] 'adidas men Streettalk'
+    First seen  -> position #115 on page, y=11283px
+    Duplicate at-> position #115 on page, y=11283px
+    Screenshot  -> screenshots/adidas_men_Streettalk_20260809_142833.png
+[DUPLICATE] 'adidas men Samoa Shoes'
+    First seen  -> position #116 on page, y=11283px
+    Duplicate at-> position #116 on page, y=11283px
+    Screenshot  -> screenshots/adidas_men_Samoa_Shoes_20260809_142833.png
+[DUPLICATE] 'adidas women Tokyo Shoes'
+    First seen  -> position #117 on page, y=11283px
+    Duplicate at-> position #117 on page, y=11283px
+    Screenshot  -> screenshots/adidas_women_Tokyo_Shoes_20260809_142833.png
+[DUPLICATE] 'Birkenstock Boston Suede Clog Taupe Narrow/Wide Women's and Men's Shoes'
+    First seen  -> position #118 on page, y=11590px
+    Duplicate at-> position #118 on page, y=11590px
+    Screenshot  -> screenshots/Birkenstock_Boston_Suede_Clog_Taupe_Narrow_Wide_Women_s_and__20260809_142834.png
+[DUPLICATE] 'adidas women GAZELLE INDOOR SHOES'
+    First seen  -> position #119 on page, y=11590px
+    Duplicate at-> position #119 on page, y=11590px
+    Screenshot  -> screenshots/adidas_women_GAZELLE_INDOOR_SHOES_20260809_142834.png
+[DUPLICATE] 'adidas women Barreda Shoes'
+    First seen  -> position #120 on page, y=11590px
+    Duplicate at-> position #120 on page, y=11590px
+    Screenshot  -> screenshots/adidas_women_Barreda_Shoes_20260809_142834.png
+[DUPLICATE] 'adidas men Forum Low CL Shoes'
+    First seen  -> position #121 on page, y=11590px
+    Duplicate at-> position #121 on page, y=11590px
+    Screenshot  -> screenshots/adidas_men_Forum_Low_CL_Shoes_20260809_142834.png
+[DUPLICATE] 'adidas men Gazelle Indoor Shoes'
+    First seen  -> position #122 on page, y=11897px
+    Duplicate at-> position #122 on page, y=11897px
+    Screenshot  -> screenshots/adidas_men_Gazelle_Indoor_Shoes_20260809_142834.png
+[DUPLICATE] 'adidas men Campus 00s Shoes'
+    First seen  -> position #123 on page, y=11897px
+    Duplicate at-> position #123 on page, y=11897px
+    Screenshot  -> screenshots/adidas_men_Campus_00s_Shoes_20260809_142834.png
+[DUPLICATE] 'adidas men ADISTAR XLG 2.0 SHOES'
+    First seen  -> position #124 on page, y=11897px
+    Duplicate at-> position #124 on page, y=11897px
+    Screenshot  -> screenshots/adidas_men_ADISTAR_XLG_2_0_SHOES_20260809_142834.png
+[DUPLICATE] 'adidas women Adizero SL2 Shoes'
+    First seen  -> position #125 on page, y=11897px
+    Duplicate at-> position #125 on page, y=11897px
+    Screenshot  -> screenshots/adidas_women_Adizero_SL2_Shoes_20260809_142834.png
+[DUPLICATE] 'adidas men Terrex Boat Slip-On Climacool Shoes'
+    First seen  -> position #126 on page, y=12204px
+    Duplicate at-> position #126 on page, y=12204px
+    Screenshot  -> screenshots/adidas_men_Terrex_Boat_Slip-On_Climacool_Shoes_20260809_142834.png
+[DUPLICATE] 'adidas women SUPERSTAR II SHOES'
+    First seen  -> position #127 on page, y=12204px
+    Duplicate at-> position #127 on page, y=12204px
+    Screenshot  -> screenshots/adidas_women_SUPERSTAR_II_SHOES_20260809_142834.png
+[DUPLICATE] 'New Balance Womens 327 Oxford Blue W327910 Women Size'
+    First seen  -> position #128 on page, y=12204px
+    Duplicate at-> position #128 on page, y=12204px
+    Screenshot  -> screenshots/New_Balance_Womens_327_Oxford_Blue_W327910_Women_Size_20260809_142834.png
+[DUPLICATE] 'adidas men Barreda Shoes'
+    First seen  -> position #129 on page, y=12204px
+    Duplicate at-> position #129 on page, y=12204px
+    Screenshot  -> screenshots/adidas_men_Barreda_Shoes_20260809_142835.png
+[DUPLICATE] 'adidas Samba Og Womens White Sneakers Casual Shoes JH7300'
+    First seen  -> position #130 on page, y=12511px
+    Duplicate at-> position #130 on page, y=12511px
+    Screenshot  -> screenshots/adidas_Samba_Og_Womens_White_Sneakers_Casual_Shoes_JH7300_20260809_142835.png
+[DUPLICATE] 'Original Stepprs Comfort Shoe Insoles Steppers Cloud Soles for Men Women (Black)'
+    First seen  -> position #131 on page, y=12511px
+    Duplicate at-> position #131 on page, y=12511px
+    Screenshot  -> screenshots/Original_Stepprs_Comfort_Shoe_Insoles_Steppers_Cloud_Soles_f_20260809_142835.png
+[DUPLICATE] 'adidas men Miami Hurricanes Adizero EVO SL Shoes'
+    First seen  -> position #132 on page, y=12511px
+    Duplicate at-> position #132 on page, y=12511px
+    Screenshot  -> screenshots/adidas_men_Miami_Hurricanes_Adizero_EVO_SL_Shoes_20260809_142835.png
+[DUPLICATE] 'adidas kids Ultrarun 5 Shoes Kids'
+    First seen  -> position #134 on page, y=12818px
+    Duplicate at-> position #134 on page, y=12818px
+    Screenshot  -> screenshots/adidas_kids_Ultrarun_5_Shoes_Kids_20260809_142835.png
+[DUPLICATE] 'adidas women Gazelle Indoor Shoes'
+    First seen  -> position #135 on page, y=12818px
+    Duplicate at-> position #135 on page, y=12818px
+    Screenshot  -> screenshots/adidas_women_Gazelle_Indoor_Shoes_20260809_142835.png
+[DUPLICATE] 'adidas kids Runfalcon 5 Shoes Kids'
+    First seen  -> position #136 on page, y=12818px
+    Duplicate at-> position #136 on page, y=12818px
+    Screenshot  -> screenshots/adidas_kids_Runfalcon_5_Shoes_Kids_20260809_142835.png
+[DUPLICATE] '*SALE* Converse Chuck Taylor All Star High Top Canvas Shoes Unisex New Authentic'
+    First seen  -> position #137 on page, y=12818px
+    Duplicate at-> position #137 on page, y=12818px
+    Screenshot  -> screenshots/_SALE__Converse_Chuck_Taylor_All_Star_High_Top_Canvas_Shoes__20260809_142835.png
+[DUPLICATE] 'adidas kids Gazelle Shoes Kids'
+    First seen  -> position #138 on page, y=13125px
+    Duplicate at-> position #138 on page, y=13125px
+    Screenshot  -> screenshots/adidas_kids_Gazelle_Shoes_Kids_20260809_142835.png
+[DUPLICATE] 'Nike Air Force 1 Multicolor Sunset IR1940-800 Authentic'
+    First seen  -> position #139 on page, y=13125px
+    Duplicate at-> position #139 on page, y=13125px
+    Screenshot  -> screenshots/Nike_Air_Force_1_Multicolor_Sunset_IR1940-800_Authentic_20260809_142835.png
+[DUPLICATE] 'adidas kids Barreda Decode Shoes Kids'
+    First seen  -> position #140 on page, y=13125px
+    Duplicate at-> position #140 on page, y=13125px
+    Screenshot  -> screenshots/adidas_kids_Barreda_Decode_Shoes_Kids_20260809_142835.png
+[DUPLICATE] 'adidas men Barreda Decode Shoes'
+    First seen  -> position #141 on page, y=13125px
+    Duplicate at-> position #141 on page, y=13125px
+    Screenshot  -> screenshots/adidas_men_Barreda_Decode_Shoes_20260809_142836.png
+[DUPLICATE] 'adidas women ADVANTAGE BASE 2.0'
+    First seen  -> position #142 on page, y=13432px
+    Duplicate at-> position #142 on page, y=13432px
+    Screenshot  -> screenshots/adidas_women_ADVANTAGE_BASE_2_0_20260809_142836.png
+[DUPLICATE] 'adidas men Lite Racer Adapt 7.0 Shoes'
+    First seen  -> position #143 on page, y=13432px
+    Duplicate at-> position #143 on page, y=13432px
+    Screenshot  -> screenshots/adidas_men_Lite_Racer_Adapt_7_0_Shoes_20260809_142836.png
+[DUPLICATE] 'Nike Air Jordan 4 "Cool Grey" Retro Mid Top Men's Basketball Shoes'
+    First seen  -> position #144 on page, y=13432px
+    Duplicate at-> position #144 on page, y=13432px
+    Screenshot  -> screenshots/Nike_Air_Jordan_4__Cool_Grey__Retro_Mid_Top_Men_s_Basketball_20260809_142836.png
+[DUPLICATE] 'Jordan 4 Retro "Military Black" Men's Basketball Shoes Mid Top Us Size7-12'
+    First seen  -> position #146 on page, y=13739px
+    Duplicate at-> position #146 on page, y=13739px
+    Screenshot  -> screenshots/Jordan_4_Retro__Military_Black__Men_s_Basketball_Shoes_Mid_T_20260809_142836.png
+[DUPLICATE] 'Crocs Women's Baya Clogs Platform Shoes'
+    First seen  -> position #147 on page, y=13739px
+    Duplicate at-> position #147 on page, y=13739px
+    Screenshot  -> screenshots/Crocs_Women_s_Baya_Clogs_Platform_Shoes_20260809_142836.png
+[DUPLICATE] 'adidas women Adidas By Stella McCartney Adistar'
+    First seen  -> position #148 on page, y=13739px
+    Duplicate at-> position #148 on page, y=13739px
+    Screenshot  -> screenshots/adidas_women_Adidas_By_Stella_McCartney_Adistar_20260809_142836.png
+[DUPLICATE] 'adidas men Terrex Eastrail 3 Climaproof Hiking Shoes'
+    First seen  -> position #149 on page, y=13739px
+    Duplicate at-> position #149 on page, y=13739px
+    Screenshot  -> screenshots/adidas_men_Terrex_Eastrail_3_Climaproof_Hiking_Shoes_20260809_142836.png
+[DUPLICATE] 'Nike Air Jordan 4 "Orchid" Mid Top Retro Women's And Men's Basketball Shoes'
+    First seen  -> position #150 on page, y=14046px
+    Duplicate at-> position #150 on page, y=14046px
+    Screenshot  -> screenshots/Nike_Air_Jordan_4__Orchid__Mid_Top_Retro_Women_s_And_Men_s_B_20260809_142836.png
+[DUPLICATE] 'Angelus Clear Shoe Cement (1 Quart)'
+    First seen  -> position #151 on page, y=14046px
+    Duplicate at-> position #151 on page, y=14046px
+    Screenshot  -> screenshots/Angelus_Clear_Shoe_Cement__1_Quart__20260809_142836.png
+[DUPLICATE] 'Huberd's Original Shoe Grease 7.5 oz - Beeswax Leather Boot Conditioner'
+    First seen  -> position #152 on page, y=14046px
+    Duplicate at-> position #152 on page, y=14046px
+    Screenshot  -> screenshots/Huberd_s_Original_Shoe_Grease_7_5_oz_-_Beeswax_Leather_Boot__20260809_142836.png
+[DUPLICATE] 'Toddler & Kids Water Shoe'
+    First seen  -> position #153 on page, y=14046px
+    Duplicate at-> position #153 on page, y=14046px
+    Screenshot  -> screenshots/Toddler___Kids_Water_Shoe_20260809_142842.png
+[DUPLICATE] 'Casual Sneakers for Women Lightweight Non-Slip Fashion Sneakers with Memory Foam Insole Womens Platform Shoes for Everyday Wear'
+    First seen  -> position #154 on page, y=14379px
+    Duplicate at-> position #154 on page, y=14379px
+    Screenshot  -> screenshots/Casual_Sneakers_for_Women_Lightweight_Non-Slip_Fashion_Sneak_20260809_142842.png
+[DUPLICATE] 'Womens Retro Fashion Sneakers Comfortable Casual Anti Slip Platform Low-Top Sneakers Lace Up Memory Foam Tennis Walking Skate Shoes'
+    First seen  -> position #155 on page, y=14379px
+    Duplicate at-> position #155 on page, y=14379px
+    Screenshot  -> screenshots/Womens_Retro_Fashion_Sneakers_Comfortable_Casual_Anti_Slip_P_20260809_142842.png
+[DUPLICATE] 'Womens 5000 Performance Sneakers, Wide Width Available'
+    First seen  -> position #156 on page, y=14379px
+    Duplicate at-> position #156 on page, y=14379px
+    Screenshot  -> screenshots/Womens_5000_Performance_Sneakers__Wide_Width_Available_20260809_142842.png
+[DUPLICATE] 'Womens Scrunchback Sneakers, Wide Width Available'
+    First seen  -> position #157 on page, y=14379px
+    Duplicate at-> position #157 on page, y=14379px
+    Screenshot  -> screenshots/Womens_Scrunchback_Sneakers__Wide_Width_Available_20260809_142842.png
+[DUPLICATE] 'Belinda Women’s Lace Detail Casual Sneakers – Elegant Ribbon Lace-Up Summer Shoes for Women with Memory Foam'
+    First seen  -> position #158 on page, y=14712px
+    Duplicate at-> position #158 on page, y=14712px
+    Screenshot  -> screenshots/Belinda_Women_s_Lace_Detail_Casual_Sneakers___Elegant_Ribbon_20260809_142842.png
+[DUPLICATE] 'Women Arch Support Walking Shoes Orthotic Sneakers for Plantar Fasciitis Foot and Heel Pain Relief,US 7 BlackGrey'
+    First seen  -> position #159 on page, y=14712px
+    Duplicate at-> position #159 on page, y=14712px
+    Screenshot  -> screenshots/Women_Arch_Support_Walking_Shoes_Orthotic_Sneakers_for_Plant_20260809_142842.png
+[DUPLICATE] 'Womens Shock Absorption Running Shoes, Breathable Mesh Lightweight Athletic Sneakers for College, Commute, Walking, Gym, Casual.Pink'
+    First seen  -> position #160 on page, y=14712px
+    Duplicate at-> position #160 on page, y=14712px
+    Screenshot  -> screenshots/Womens_Shock_Absorption_Running_Shoes__Breathable_Mesh_Light_20260809_142842.png
+[DUPLICATE] 'Womens Mulaney Slip On Mary Jane'
+    First seen  -> position #161 on page, y=14712px
+    Duplicate at-> position #161 on page, y=14712px
+    Screenshot  -> screenshots/Womens_Mulaney_Slip_On_Mary_Jane_20260809_142843.png
+[DUPLICATE] 'BUSHACRE 2 Beeswax'
+    First seen  -> position #162 on page, y=15045px
+    Duplicate at-> position #162 on page, y=15045px
+    Screenshot  -> screenshots/BUSHACRE_2_Beeswax_20260809_142843.png
+[DUPLICATE] 'Genuine Suede Clogs for Women, Memory Foam Cork Footbed Potato Slip on Leather Shoes, Mocha'
+    First seen  -> position #163 on page, y=15045px
+    Duplicate at-> position #163 on page, y=15045px
+    Screenshot  -> screenshots/Genuine_Suede_Clogs_for_Women__Memory_Foam_Cork_Footbed_Pota_20260809_142843.png
+[DUPLICATE] 'ST329 Men’s Sneakers, Classic Training Shoe with All-Day Comfort and Durable Design'
+    First seen  -> position #164 on page, y=15045px
+    Duplicate at-> position #164 on page, y=15045px
+    Screenshot  -> screenshots/ST329_Men_s_Sneakers__Classic_Training_Shoe_with_All-Day_Com_20260809_142843.png
+[DUPLICATE] 'Womens Banded Jogger Sneakers, Wide Width Available'
+    First seen  -> position #165 on page, y=15045px
+    Duplicate at-> position #165 on page, y=15045px
+    Screenshot  -> screenshots/Womens_Banded_Jogger_Sneakers__Wide_Width_Available_20260809_142843.png
+[DUPLICATE] 'Unisex Bayaband Flip'
+    First seen  -> position #166 on page, y=15378px
+    Duplicate at-> position #166 on page, y=15378px
+    Screenshot  -> screenshots/Unisex_Bayaband_Flip_20260809_142843.png
+[DUPLICATE] 'Lute Genuine Suede Leather Clogs for Women Indoor and Outdoor – Comfortable Slip On Womens Clogs with Cushioned Footbed'
+    First seen  -> position #167 on page, y=15378px
+    Duplicate at-> position #167 on page, y=15378px
+    Screenshot  -> screenshots/Lute_Genuine_Suede_Leather_Clogs_for_Women_Indoor_and_Outdoo_20260809_142843.png
+[DUPLICATE] 'Womens GO RUN CONSISTENT 2.0 - Strava Lace-Up Running Sneakers'
+    First seen  -> position #168 on page, y=15378px
+    Duplicate at-> position #168 on page, y=15378px
+    Screenshot  -> screenshots/Womens_GO_RUN_CONSISTENT_2_0_-_Strava_Lace-Up_Running_Sneake_20260809_142843.png
+[DUPLICATE] '5000 Unisex Little and Big Kid Chunky Trainer Sneakers'
+    First seen  -> position #169 on page, y=15378px
+    Duplicate at-> position #169 on page, y=15378px
+    Screenshot  -> screenshots/5000_Unisex_Little_and_Big_Kid_Chunky_Trainer_Sneakers_20260809_142843.png
+[DUPLICATE] 'Comfort Sneaker for Women Casual Womens Walking Shoes Lightweight Breathable Mesh Air Cushion Sneakers'
+    First seen  -> position #170 on page, y=15711px
+    Duplicate at-> position #170 on page, y=15711px
+    Screenshot  -> screenshots/Comfort_Sneaker_for_Women_Casual_Womens_Walking_Shoes_Lightw_20260809_142843.png
+
+Total unique titles seen: 159
+Total duplicate titles found: 159
